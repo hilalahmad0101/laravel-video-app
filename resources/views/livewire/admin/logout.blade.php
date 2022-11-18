@@ -1,0 +1,1 @@
+<span wire:click='logout' class='text-sm font-bold group-hover:text-[#6D44B8] text-white'>Logout</span>
